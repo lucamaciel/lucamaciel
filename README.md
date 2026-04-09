@@ -1,4 +1,4 @@
-# 🧔🏾‍♂️ Olá, eu sou Luca Maciel
+# Olá, eu sou Luca Maciel
 
 **`Desenvolvedor Back-end em Formação | Automação & IA | Python · FastAPI · n8n`**
 
