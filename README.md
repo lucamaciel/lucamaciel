@@ -70,23 +70,6 @@ Acredito que tecnologia bem aplicada resolve problemas reais antes mesmo de vira
 
 ---
 
-### 🎓 Aprendendo agora — PUC Minas 2026/1
-
-Atualmente cursando **Algoritmos e Estruturas de Dados II** (Ciência da Computação — PUC Minas), com foco em desenvolvimento de soluções eficientes, análise de complexidade e estruturas de dados avançadas.
-
-**Progresso da ementa:**
-
-| Status | Unidade |
-|:------:|:--------|
-| ✅ | Unidade 0 — Nivelamento: revisão de C, C++, Java, ponteiros e Linux |
-| ✅ | Unidade I — Fundamentos da Análise de Algoritmos (Notações O, Ω, Θ) |
-| 🔄 | Unidade II — Estruturas Lineares: Pilha, Fila Circular e Listas |
-| ⏳ | Unidade III — Ordenação: Quicksort, Mergesort, Heapsort, Radixsort... |
-| ⏳ | Unidade IV — Estruturas Dinâmicas Flexíveis em C e Java |
-| ⏳ | Unidade V — Árvores Binárias |
-| ⏳ | Unidade VI — Balanceamento: AVL, Red-Black, 2-3-4 Trees |
-| ⏳ | Unidade VII — Tabelas Hash e Dicionários |
-| ⏳ | Unidade VIII — Árvores TRIE e PATRICIA |
 
 > ✅ Concluído · 🔄 Em andamento · ⏳ Em breve
 
