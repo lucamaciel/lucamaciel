@@ -1,90 +1,44 @@
-# Olá, eu sou Luca Maciel
-
-**`Desenvolvedor Back-end em Formação | Automação & IA | Python · FastAPI · n8n`**
-
-Sou estudante de Ciência da Computação na PUC Minas e atualmente estou desenvolvendo projetos práticos nas áreas de automação de processos, inteligência artificial e integração de sistemas.
-
-Acredito que tecnologia bem aplicada resolve problemas reais antes mesmo de virar produto. Por isso, foco meus estudos em automação inteligente, APIs e LLMs — sempre com foco em impacto e eficiência.
-
-📊 Atualmente explorando: **FastAPI**, **LLMs (OpenAI / DeepSeek)**, **n8n**.
-
-🛠️ Background técnico: Automação de pipelines de dados, integração de APIs, desenvolvimento back-end com Python.
-
-💡 Buscando aplicar **IA e automação** para resolver problemas reais de mercado.
-
-   <p align="left"> 
-    <a href="https://github.com/lucamaciel?tab=followers">
-         <img 
-         alt="followers" 
-         title="Me siga no GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/followers/lucamaciel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
-         </a>
-    <a href="https://github.com/lucamaciel?tab=repositories&sort=stargazers">
-         <img alt="total stars" 
-         title="Total de estrelas" 
-         src="https://custom-icon-badges.demolab.com/github/stars/lucamaciel?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
-    <a href="https://www.linkedin.com/in/luca-santos-323189239/"
-        target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
-         title="Vamos fazer uma conexão!" /></a>
-   </p>
-
----
-
-### 🤖 Linguagens e tecnologias
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python" align="middle" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" align="middle" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" alt="Java" align="middle" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" alt="FastAPI" align="middle" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" alt="SQL" align="middle" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" alt="Linux" align="middle" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" alt="Git" align="middle" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" alt="GitHub" align="middle" />
+﻿<h1 align="center">Olá! 👋</h1>
+<p align="center">
+    <br>
+    Meu nome é <b>Luca Maciel</b><br>
+    🎓 Estudante de Ciência da Computação na PUC Minas<br>
+    💻 Focado em Backend e Automação<br>
+    🔐 Apaixonado por sistemas, APIs e soluções que resolvem problemas reais<br><br>
+    <a href="https://www.linkedin.com/in/luca-santos-323189239/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/lucamaciel" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://instagram.com/_lucamaciel" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="mailto:luca.maciel.dev@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
+    </a>
+    <br>
 </p>
 
----
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucamaciel&theme=transparent" alt="profile details" />
+</div>
 
-### 💼 Experiência
+## Linguagens
+[![langs](https://skillicons.dev/icons?i=c,cpp,java,python)](https://skillicons.dev)
 
-**Automação e IA — Acesso Full Performance** *(Estágio · jun/2025 – jan/2026)*
-- Desenvolvimento de rotinas automatizadas para otimização de processos internos
-- Coleta e tratamento de dados de campanhas de marketing (Google Ads e Meta Ads)
-- Integração de dados com LLMs para geração de análises mais completas
-- Foco em eficiência, automação e entrega contínua
+## Ferramentas
+[![tools](https://skillicons.dev/icons?i=vscode,git,github,linux,postgresql)](https://skillicons.dev)
 
----
+## Projetos em destaque
+- [Pull Request Generator](https://github.com/ICEI-PUC-Minas-CC-TI/ti1-2025-1-t2-manha-pullrequestgenerator) - IA para automatizar descrições de PRs no GitHub
+- [DINOphysique](https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-ti2-2026-1-v2-g05-dinophysique) - Plataforma de física gamificada com foco em aprendizado interativo
 
-### 🚀 Projetos
+## Atualmente estudando
+- Python, APIs e automação
+- IA e soluções de backend
+- Estruturas de dados e lógica de programação
 
-**[Pull Request Generator](https://github.com/lucamaciel)**
-> Plataforma de IA que automatiza a geração de descrições de Pull Requests no GitHub. Utiliza modelos como OpenAI e DeepSeek para padronizar a comunicação entre desenvolvedores e acelerar o ciclo de revisão de código.
-
----
-
-
-> ✅ Concluído · 🔄 Em andamento · ⏳ Em breve
-
----
-
-### 📊 Estatísticas
-
-<p align="left">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucamaciel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    width="420"
-  />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucamaciel&layout=compact&theme=tokyonight&locale=pt-br"
-    width="390"
-  />
-</p>
+## Stats
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucamaciel&theme=transparent)
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucamaciel&theme=transparent)
