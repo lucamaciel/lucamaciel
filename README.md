@@ -24,21 +24,8 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucamaciel&theme=transparent" alt="profile details" />
 </div>
 
-## Linguagens de domínio
-[![langs](https://skillicons.dev/icons?i=python,fastapi,js,java,postgresql)](https://skillicons.dev)
-
-## Linguagens em aprendizado
-[![langs](https://skillicons.dev/icons?i=typescript,react,nodejs)](https://skillicons.dev)
-
-## Banco de dados
-[![langs](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
-
-## Ferramentas e IDEs
-[![ide](https://skillicons.dev/icons?i=vscode,git,github,linux)](https://skillicons.dev)
-
-## Sistemas operacionais
-![windows](https://skillicons.dev/icons?i=windows)
-![linux](https://skillicons.dev/icons?i=linux)
+## Linguagens
+[![langs](https://skillicons.dev/icons?i=c,cpp,java,python)](https://skillicons.dev)
 
 ## Projetos em destaque
 - [Pull Request Generator](https://github.com/ICEI-PUC-Minas-CC-TI/ti1-2025-1-t2-manha-pullrequestgenerator) - IA para automatizar descrições de PRs no GitHub
