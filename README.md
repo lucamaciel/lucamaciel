@@ -1,7 +1,7 @@
 ﻿<h1 align="center">Olá! 👋</h1>
 <p align="center">
     <br>
-    Meu nome é Luca Maciel<br>
+    Meu nome é <b>Luca Maciel</b><br>
     🎓 Estudante de Ciência da Computação na PUC Minas<br>
     💻 Focado em Backend, Automação e Inteligência Artificial<br>
     🔐 Apaixonado por sistemas, APIs e soluções que resolvem problemas reais<br><br>
@@ -27,9 +27,17 @@
 ## Linguagens
 [![langs](https://skillicons.dev/icons?i=c,cpp,java,python)](https://skillicons.dev)
 
+## Ferramentas
+[![tools](https://skillicons.dev/icons?i=vscode,git,github,linux,postgresql)](https://skillicons.dev)
+
 ## Projetos em destaque
 - [Pull Request Generator](https://github.com/ICEI-PUC-Minas-CC-TI/ti1-2025-1-t2-manha-pullrequestgenerator) - IA para automatizar descrições de PRs no GitHub
 - [DINOphysique](https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-ti2-2026-1-v2-g05-dinophysique) - Plataforma de física gamificada com foco em aprendizado interativo
+
+## Atualmente estudando
+- Python, APIs e automação
+- IA e soluções de backend
+- Estruturas de dados e lógica de programação
 
 ## Stats
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucamaciel&theme=transparent)
